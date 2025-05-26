@@ -33,8 +33,7 @@ When I'm not coding, you'll find me:
 ## 📫 How to reach me
 
 - GitHub: [Gary-XC](https://github.com/Gary-XC)
-- (Add your email or LinkedIn if you wish!)
-
+- LinkedIn: [Profile](https://www.linkedin.com/in/garychenx/)
 ---
 
 Let's connect and build something amazing with data! 🚀
