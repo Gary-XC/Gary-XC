@@ -1,7 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gary-XC)](https://github.com/ryo-ma/github-profile-trophy)
-
-# Hi there, I'm Gary-XC! 👋
-
 🎓 **Student** passionate about unlocking insights from data and building intelligent systems.
 
 ## 🚀 About Me
@@ -11,6 +7,8 @@
 - 🛠️ Experienced with: `pandas`, `scikit-learn`, `PyTorch`, and data visualization tools
 - 📊 Love turning raw data into actionable stories
 - 🌱 Currently working on my journey to AI mastery: [Journey-to-AI-Mastery](https://github.com/Gary-XC/Journey-to-AI-Mastery)
+- Check out my StreamLit Dashboards
+  - [Market Share Dashboard](https://marketshare-dashboard.streamlit.app/)
 
 ## 🧰 Skills & Tools
 
