@@ -5,9 +5,15 @@
 - 💹 Interested in **Quantitative Trading** and financial data analysis
 - 🛠️ Experienced with: `pandas`, `scikit-learn`, `PyTorch`, and data visualization tools
 - 📊 Love turning raw data into actionable stories
-- 🌱 Currently working on my journey to AI mastery: [Journey-to-AI-Mastery](https://github.com/Gary-XC/Journey-to-AI-Mastery)
-- Check out my StreamLit Dashboards
-  - [Market Share Dashboard](https://marketshare-dashboard.streamlit.app/)
+- 🌱 Currently working on my journey to learning AI: [Journey-to-AI-Mastery](https://github.com/Gary-XC/Journey-to-AI-Mastery)
+
+## 🧠 Projects
+### [Market Share Interactive Dashboard](https://marketshare-dashboard.streamlit.app/)
+market share and revenue data for the largest companies in the S&P 500 using financial statement APIs. Features:
+- Led the development of an automated data pipeline to extract market share and revenue metrics for top S&P 500 companies using APIs like yFinance and Alpha Vantage
+- Designed and managed scripts to retrieve, clean, and standardize multi-year financial data for historical and comparative analysis.
+- Compiled the data into structured formats for visualization and further analytics
+
 
 ## 🧰 Skills & Tools
 
@@ -24,8 +30,8 @@
 ## 🌱 Side Interests
 
 When I'm not coding, you'll find me:
-- 🎣 Fishing by the water
-- 🌱 Gardening and growing new things
+- 🎣 Fishing
+- 🌱 Gardening
 
 ## 📫 How to reach me
 
