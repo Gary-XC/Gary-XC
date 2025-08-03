@@ -39,9 +39,6 @@ When I'm not coding, you'll find me:
 - LinkedIn: [Profile](https://www.linkedin.com/in/garychenx/)
 ---
 
-Let's connect and build something amazing with data! 🚀
-
-
 <!--
 **Gary-XC/Gary-XC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
