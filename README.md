@@ -1,7 +1,6 @@
-🎓 **Student** passionate about unlocking insights from data and building intelligent systems.
+🎓 **Student** passionate about unlocking insights from data
 
 ## 🚀 About Me
-
 - 📈 Exploring **Data Science** and **Machine Learning**
 - 💹 Interested in **Quantitative Trading** and financial data analysis
 - 🛠️ Experienced with: `pandas`, `scikit-learn`, `PyTorch`, and data visualization tools
