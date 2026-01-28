@@ -1,13 +1,11 @@
-🎓 **Student** passionate about unlocking insights from data
+**Student** passionate about unlocking insights from data
 
-## 🚀 About Me
-- 📈 Exploring **Data Science** and **Machine Learning**
-- 💹 Interested in **Quantitative Trading** and financial data analysis
-- 🛠️ Experienced with: `pandas`, `scikit-learn`, `PyTorch`, and data visualization tools
-- 📊 Love turning raw data into actionable stories
-- 🌱 Currently working on my journey to learning AI: [Journey-to-AI-Mastery](https://github.com/Gary-XC/Journey-to-AI-Mastery)
+## About Me
+- Exploring **Data Science** and **Machine Learning**
+- Experienced with: `pandas`, `scikit-learn`, `PyTorch`, and data visualization tools
+Journey-to-AI-Mastery](https://github.com/Gary-XC/Journey-to-AI-Mastery)
 
-## 🧠 Projects
+## Projects
 ### [Market Share Interactive Dashboard](https://marketshare-dashboard.streamlit.app/)
 market share and revenue data for the largest companies in the S&P 500 using financial statement APIs. Features:
 - Led the development of an automated data pipeline to extract market share and revenue metrics for top S&P 500 companies using APIs like yFinance and Alpha Vantage
@@ -15,25 +13,19 @@ market share and revenue data for the largest companies in the S&P 500 using fin
 - Compiled the data into structured formats for visualization and further analytics
 
 
-## 🧰 Skills & Tools
+## Skills & Tools
 
 - **Languages:** Python, SQL
 - **Libraries:** pandas, scikit-learn, PyTorch, matplotlib, seaborn
 - **Topics:** Data analysis, data visualization, machine learning, predictive modeling
 
-## 🧭 My Goals
+## My Goals
 
 - Deepen my understanding of machine learning algorithms
 - Apply data science to real-world finance problems
 - Grow towards a career in quant trading
 
-## 🌱 Side Interests
-
-When I'm not coding, you'll find me:
-- 🎣 Fishing
-- 🌱 Gardening
-
-## 📫 How to reach me
+## How to reach me
 
 - GitHub: [Gary-XC](https://github.com/Gary-XC)
 - LinkedIn: [Profile](https://www.linkedin.com/in/garychenx/)
