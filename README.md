@@ -3,7 +3,7 @@
 ## About Me
 - Exploring **Data Science** and **Machine Learning**
 - Experienced with: `pandas`, `scikit-learn`, `PyTorch`, and data visualization tools
-[Journey-to-AI-Mastery](https://github.com/Gary-XC/Journey-to-AI-Mastery)
+- [Documenting the Learning Process of Machine Learning Frameworks](https://github.com/Gary-XC/Journey-to-AI-Mastery)
 
 ## Projects
 ### [Market Share Interactive Dashboard](https://marketshare-dashboard.streamlit.app/)
