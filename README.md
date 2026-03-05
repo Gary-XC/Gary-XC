@@ -3,15 +3,25 @@
 ## About Me
 - Exploring **Data Science** and **Machine Learning**
 - Experienced with: `pandas`, `scikit-learn`, `PyTorch`, and data visualization tools
-- [Documenting the Learning Process of Machine Learning Frameworks](https://github.com/Gary-XC/Journey-to-AI-Mastery)
 
 ---
 
 ## Projects
+### [Soccer Advanced Statistics: Text-to-Pandas Analytics](https://github.com/Gary-XC/adv-soccer-stats)
+An end-to-end data science and AI project that adapts high-volume basketball and baseball metrics (Usage Rate, True Shooting, WAR) to European soccer, powered by a custom natural language querying engine.
+
+Tools: Python, Pandas, Scikit-Learn, SciPy, Matplotlib/Seaborn, mplsoccer, LangChain, FastAPI, Streamlit
+
+- Modular, production-ready ETL pipeline, demonstrating strong software engineering principles (encapsulation, centralized orchestration, and artifact generation).
+- Engineered complex, cross-sport advanced metrics (Possession Usage, True Finishing Efficiency, Offensive Goals Added) by cleaning and merging multi-domain CSV datasets.
+- Implemented unsupervised machine learning (K-Means) to cluster player roles and developed a Euclidean distance-based similarity search engine to identify statistical twins across leagues.
+- Built automated visualizers to generate high-resolution analytical artifacts, including percentile "pizza" charts and volume-vs-efficiency scatter plots.
+- Designed a Text-to-Pandas LLM architecture utilizing FastAPI as a backend reasoning engine and Streamlit as a frontend, allowing users to query complex numerical datasets using natural language.
+
 ### [PATH 411 – Applied Data Science in Molecular Medicine](https://github.com/Gary-XC/Path-411)
 Queens Course where I completed assignmetns for PATH 411: Applied Data Science in Molecular Medicine, a hands-on course focused on applying statistics and machine learning to high-dimensional genomic datasets
 
-Tools: Python, MATLAB, SPSS, high-performance computing (HPC) cluster enviroment (Fronteac Center for Advanced Computing)
+Tools: Python, MATLAB, SPSS, high-performance computing cluster(HPC) enviroment (Fronteac Center for Advanced Computing)
 
 - Completed a full end-to-end machine learning workflow on high-dimensional genomic datasets, progressing from raw data preprocessing to validated predictive modeling and survival analysis.
 - Designed reproducible data pipelines for normalization, feature filtering, and outlier detection across thousands of features.
