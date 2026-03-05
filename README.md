@@ -21,7 +21,7 @@ Tools: Python, Pandas, Scikit-Learn, SciPy, Matplotlib/Seaborn, mplsoccer, LangC
 - Designed a Text-to-Pandas LLM architecture utilizing FastAPI as a backend reasoning engine and Streamlit as a frontend, allowing users to query complex numerical datasets using natural language.
 
 ### [PATH 411 – Applied Data Science in Molecular Medicine](https://github.com/Gary-XC/Path-411)
-Queens Course where I completed assignmetns for PATH 411: Applied Data Science in Molecular Medicine, a hands-on course focused on applying statistics and machine learning to high-dimensional genomic datasets
+Queens Course where I completed assignments for PATH 411: Applied Data Science in Molecular Medicine, a hands-on course focused on applying statistics and machine learning to high-dimensional genomic datasets
 
 Tools: Python, MATLAB, SPSS, high-performance computing cluster(HPC) enviroment (Fronteac Center for Advanced Computing)
 
