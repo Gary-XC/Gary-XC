@@ -9,6 +9,14 @@
 ---
 
 ## Projects
+### [Autonomous ML Pipeline Agent](https://github.com/Gary-XC/llm-ds-agent)
+Developed a local, LLM application using Qwen2.5-Coder and Streamlit that autonomously performs EDA, feature engineering, and model training
+- Implemented a thread-safe serialization architecture to pass data and visualization artifacts safely between the sandboxed LLM execution environment and the web frontend
+- Built an autonomous Data Science agent using a local LLM to automate end-to-end machine learning pipelines, from exploratory data analysis to model evaluation.
+- Implemented custom tools enabling the agent to autonomously generate Plotly visualizations, transform Pandas dataframes, and export trained Scikit-Learn models.
+
+Tools: Qwen2.5-Coder-7B, Streamlit, smolagents, LiteLLM, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+
 ### [Soccer Advanced Statistics: Text-to-Pandas Analytics](https://github.com/Gary-XC/adv-soccer-stats)
 An end-to-end data science and AI project that adapts high-volume basketball and baseball metrics (Usage Rate, True Shooting, WAR) to European soccer, powered by a custom natural language querying engine.
 
