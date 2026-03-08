@@ -4,7 +4,6 @@
 - Exploring **Data Science** and **Machine Learning**
 - Experienced with: `pandas`, `scikit-learn`, `PyTorch`, and data visualization tools
 - Portfolio Website: [Projects and Case Studies](https://gary-xc.github.io/)
-- 
 
 ---
 
