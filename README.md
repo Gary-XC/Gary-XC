@@ -1,10 +1,10 @@
 ### [Advanced Soccer Stats & World Cup Predictor](https://github.com/Gary-XC/adv-soccer-stats)
-An end-to-end MLOps pipeline for predicting soccer match outcomes using a hybrid Top-Down/Bottom-Up EWMA feature engineering approach, LightGBM stacking models, and Live Elo Ratings.
+Tools: Pandas, NumPy, LightGBM, FastAPI, Uvicorn, Streamlit, Docker, Hugging Face Spaces, GitHub Actions
+- An end-to-end MLOps pipeline for predicting soccer match outcomes using a hybrid Top-Down/Bottom-Up EWMA feature engineering approach, LightGBM stacking models, and Live Elo Ratings.
+- The system features a FastAPI backend for millisecond inference, a Streamlit frontend for interactive dashboards, and a fully automated GitHub Actions CI/CD pipeline that fetches daily match data from API-Football to keep the model's understanding of team form up-to-date.
+- **Live App:** [Hugging Face Space Link Here](https://huggingface.co/spaces/GaryC246/soccer-predictions)
+- **Model Weights:** [Hugging Face Model Link Here](https://huggingface.co/GaryC246/soccer-models/tree/main)
 
-The system features a FastAPI backend for millisecond inference, a Streamlit frontend for interactive dashboards, and a fully automated GitHub Actions CI/CD pipeline that fetches daily match data from API-Football to keep the model's understanding of team form up-to-date.
-
-Live App: Hugging Face Space Link Here
-Model Weights: Hugging Face Model Link Here
 
 ### Soccer Advanced Statistics
 An end-to-end data science and AI project that adapts high-volume basketball and baseball metrics (Usage Rate, True Shooting, WAR) to European soccer, powered by a custom natural language querying engine.
