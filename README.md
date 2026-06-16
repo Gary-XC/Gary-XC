@@ -1,22 +1,12 @@
-**Student** passionate about unlocking insights from data
+### [Advanced Soccer Stats & World Cup Predictor](https://github.com/Gary-XC/adv-soccer-stats)
+An end-to-end MLOps pipeline for predicting soccer match outcomes using a hybrid Top-Down/Bottom-Up EWMA feature engineering approach, LightGBM stacking models, and Live Elo Ratings.
 
-## About Me
-- Exploring **Data Science** and **Machine Learning**
-- Experienced with: `pandas`, `scikit-learn`, `PyTorch`, and data visualization tools
-- Portfolio Website: [Projects and Case Studies](https://gary-xc.github.io/)
+The system features a FastAPI backend for millisecond inference, a Streamlit frontend for interactive dashboards, and a fully automated GitHub Actions CI/CD pipeline that fetches daily match data from API-Football to keep the model's understanding of team form up-to-date.
 
----
+Live App: Hugging Face Space Link Here
+Model Weights: Hugging Face Model Link Here
 
-## Projects
-### [Autonomous ML Pipeline Agent](https://github.com/Gary-XC/llm-ds-agent)
-Developed a local, LLM application using Qwen2.5-Coder and Streamlit that autonomously performs EDA, feature engineering, and model training
-- Implemented a thread-safe serialization architecture to pass data and visualization artifacts safely between the sandboxed LLM execution environment and the web frontend
-- Built an autonomous Data Science agent using a local LLM to automate end-to-end machine learning pipelines, from exploratory data analysis to model evaluation.
-- Implemented custom tools enabling the agent to autonomously generate Plotly visualizations, transform Pandas dataframes, and export trained Scikit-Learn models.
-
-Tools: Qwen2.5-Coder-7B, Streamlit, smolagents, LiteLLM, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
-
-### [Soccer Advanced Statistics: Text-to-Pandas Analytics](https://github.com/Gary-XC/adv-soccer-stats)
+### Soccer Advanced Statistics
 An end-to-end data science and AI project that adapts high-volume basketball and baseball metrics (Usage Rate, True Shooting, WAR) to European soccer, powered by a custom natural language querying engine.
 
 Tools: Python, Pandas, Scikit-Learn, SciPy, Matplotlib/Seaborn, mplsoccer, LangChain, FastAPI, Streamlit
@@ -25,7 +15,6 @@ Tools: Python, Pandas, Scikit-Learn, SciPy, Matplotlib/Seaborn, mplsoccer, LangC
 - Engineered complex, cross-sport advanced metrics (Possession Usage, True Finishing Efficiency, Offensive Goals Added) by cleaning and merging multi-domain CSV datasets.
 - Implemented unsupervised machine learning (K-Means) to cluster player roles and developed a Euclidean distance-based similarity search engine to identify statistical twins across leagues.
 - Built automated visualizers to generate high-resolution analytical artifacts, including percentile "pizza" charts and volume-vs-efficiency scatter plots.
-- Designed a Text-to-Pandas LLM architecture utilizing FastAPI as a backend reasoning engine and Streamlit as a frontend, allowing users to query complex numerical datasets using natural language.
 
 ### [PATH 411 – Applied Data Science in Molecular Medicine](https://github.com/Gary-XC/Path-411)
 Queens Course where I completed assignments for PATH 411: Applied Data Science in Molecular Medicine, a hands-on course focused on applying statistics and machine learning to high-dimensional genomic datasets
