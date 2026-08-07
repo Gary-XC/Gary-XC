@@ -5,6 +5,7 @@ Tools: Pandas, NumPy, LightGBM, FastAPI, Uvicorn, Streamlit, Docker, Hugging Fac
 - **Live App:** [Hugging Face Space Link Here](https://huggingface.co/spaces/GaryC246/soccer-predictions)
 - **Model Weights:** [Hugging Face Model Link Here](https://huggingface.co/GaryC246/soccer-models/tree/main)
 
+---
 
 ### [PATH 411 – Applied Data Science in Molecular Medicine](https://github.com/Gary-XC/Path-411)
 Queens Course where I completed assignments for PATH 411: Applied Data Science in Molecular Medicine, a hands-on course focused on applying statistics and machine learning to high-dimensional genomic datasets
@@ -16,6 +17,8 @@ Tools: Python, MATLAB, SPSS, high-performance computing cluster(HPC) enviroment 
 - Applied dimensionality reduction, feature selection, and multi-model benchmarking (Logistic Regression, SVM, KNN, Ensembles) with cross-validation and ROC-based evaluation.
 - Integrated statistical inference and survival modeling to connect predictive outputs with real-world outcome interpretation.
 - Built HPC-based RNA-seq alignment and quantification pipeline, demonstrating large-scale data engineering and automation capabilities.
+
+---
 
 ### [Market Share Interactive Dashboard](https://marketshare-dashboard.streamlit.app/)
 Market share and revenue data for the largest companies in the S&P 500 using financial statement APIs. 
