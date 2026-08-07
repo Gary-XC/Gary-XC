@@ -1,20 +1,10 @@
-### [Advanced Soccer Stats & World Cup Predictor](https://github.com/Gary-XC/adv-soccer-stats)
+### [World Cup Predictor](https://github.com/Gary-XC/adv-soccer-stats)
 Tools: Pandas, NumPy, LightGBM, FastAPI, Uvicorn, Streamlit, Docker, Hugging Face Spaces, GitHub Actions
 - An end-to-end MLOps pipeline for predicting soccer match outcomes using a hybrid Top-Down/Bottom-Up EWMA feature engineering approach, LightGBM stacking models, and Live Elo Ratings.
 - The system features a FastAPI backend for millisecond inference, a Streamlit frontend for interactive dashboards, and a fully automated GitHub Actions CI/CD pipeline that fetches daily match data from API-Football to keep the model's understanding of team form up-to-date.
 - **Live App:** [Hugging Face Space Link Here](https://huggingface.co/spaces/GaryC246/soccer-predictions)
 - **Model Weights:** [Hugging Face Model Link Here](https://huggingface.co/GaryC246/soccer-models/tree/main)
 
-
-### Soccer Advanced Statistics
-An end-to-end data science and AI project that adapts high-volume basketball and baseball metrics (Usage Rate, True Shooting, WAR) to European soccer, powered by a custom natural language querying engine.
-
-Tools: Python, Pandas, Scikit-Learn, SciPy, Matplotlib/Seaborn, mplsoccer, LangChain, FastAPI, Streamlit
-
-- Modular, production-ready ETL pipeline, demonstrating strong software engineering principles (encapsulation, centralized orchestration, and artifact generation).
-- Engineered complex, cross-sport advanced metrics (Possession Usage, True Finishing Efficiency, Offensive Goals Added) by cleaning and merging multi-domain CSV datasets.
-- Implemented unsupervised machine learning (K-Means) to cluster player roles and developed a Euclidean distance-based similarity search engine to identify statistical twins across leagues.
-- Built automated visualizers to generate high-resolution analytical artifacts, including percentile "pizza" charts and volume-vs-efficiency scatter plots.
 
 ### [PATH 411 – Applied Data Science in Molecular Medicine](https://github.com/Gary-XC/Path-411)
 Queens Course where I completed assignments for PATH 411: Applied Data Science in Molecular Medicine, a hands-on course focused on applying statistics and machine learning to high-dimensional genomic datasets
