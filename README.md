@@ -1,4 +1,5 @@
 # Gary Chen
+<base target="_blank">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garychenx/)
 
 - **AI & ML Community:** Member and contributor at **QMIND** (Canada’s largest undergraduate AI club) and **QDAA** (Queen’s Data Analytics Association), collaborating on applied ML research and student-led AI initiatives
