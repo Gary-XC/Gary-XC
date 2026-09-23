@@ -4,11 +4,11 @@
 ## Building
 
 ## Certifications
-| | Organization | Certificate | Key Takeaways & Impact |
-| :---: | :--- | :--- | :--- |
-| <img src="https://api.iconify.design/logos:anthropic-icon.svg" width="30" height="30" alt="Anthropic" /> | Anthropic | [Claude Code in Action](https://academy.claude.com/) | Mastered autonomous agentic engineering workflows directly in the terminal, focusing on test-driven refactoring, codebase-wide search and indexing, and configuring custom agent skills. |
-| <img src="https://api.iconify.design/devicon:freecodecamp.svg" width="30" height="30" alt="freeCodeCamp" /> | freeCodeCamp | [Machine Learning with Python](https://www.freecodecamp.org/certification/garyc246/machine-learning-with-python-v7) | Implemented neural networks, image classifiers, and predictive algorithms using TensorFlow and Scikit-Learn, with an emphasis on data preprocessing and performance evaluation. |
-| <img src="https://api.iconify.design/devicon:freecodecamp.svg" width="30" height="30" alt="freeCodeCamp" /> | freeCodeCamp | [Relational Database](https://www.freecodecamp.org/certification/garyc246/relational-databases-v9) | Designed normalized SQL schemas, complex multi-table queries, and automated shell pipelines with PostgreSQL and Bash and implemented version control using git and github. |
+| Organization | Certificate | Key Takeaways & Impact |
+| :--- | :--- | :--- |
+| **Anthropic** | [Claude Code in Action](https://academy.claude.com/) | Mastered autonomous agentic engineering workflows directly in the terminal, focusing on test-driven refactoring, codebase-wide search and indexing, and configuring custom agent skills. |
+| **freeCodeCamp** | [Machine Learning with Python](https://www.freecodecamp.org/certification/garyc246/machine-learning-with-python-v7) | Implemented neural networks, image classifiers, and predictive algorithms using TensorFlow and Scikit-Learn, with an emphasis on data preprocessing and performance evaluation. |
+| **freeCodeCamp** | [Relational Database](https://www.freecodecamp.org/certification/garyc246/relational-databases-v9) | Designed normalized SQL schemas, complex multi-table queries, and automated shell pipelines with PostgreSQL and Bash and implemented version control using git and github. |
 
 
 ## Stack
