@@ -24,5 +24,5 @@
 
 ## Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,matlab,java,postgres,sklearn,pytorch,tensorflow,kafka,docker,fastapi,aws,azure,git,github,vscode,jupyter" alt="Data Science Skills" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,postgres,sklearn,pytorch,tensorflow,kafka,docker,fastapi,aws,azure,git,github,vscode,jupyter" alt="Data Science Skills" />
 </p>
