@@ -1,4 +1,5 @@
 # Gary Chen
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/garychenx/))
 
 ## Stack
 <p align="left">
@@ -33,19 +34,10 @@ Market share and revenue data for the largest companies in the S&P 500 using fin
 Tools: Python, Streamlit, Matplotlib, Seaborn, Pandas, Numpy
 
 Features:
-- Led the development of an automated data pipeline to extract market share and revenue metrics for top S&P 500 companies using APIs like yFinance and Alpha Vantage
+- Developmed an automated data pipeline to extract market share and revenue metrics for top S&P 500 companies using APIs like yFinance and Alpha Vantage
 - Designed and managed scripts to retrieve, clean, and standardize multi-year financial data for historical and comparative analysis.
 - Compiled the data into structured formats for visualization and further analytics
 
 ---
 
-## Skills & Tools
-- **Languages:** Python, SQL, R
-- **Libraries:** pandas, scikit-learn, PyTorch, matplotlib, seaborn
-- **Topics:** Data analysis, data visualization, machine learning, predictive modeling
-
-## Social Links
-
-- GitHub: [Gary-XC](https://github.com/Gary-XC)
-- LinkedIn: [Profile](https://www.linkedin.com/in/garychenx/)
 ---
