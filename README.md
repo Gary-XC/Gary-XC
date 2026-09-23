@@ -6,7 +6,6 @@
 - **Core Focus:** Building end-to-end predictive systems, ensemble modeling, containerized inference endpoints (FastAPI, Docker), and cloud data infrastructure (AWS, Azure, SQL)
 - **Current Pursuits:** Exploring agentic workflows, custom Mixture of Experts (MoE) architectures, and reinforcement learning simulation environments
 
-<base target="_blank">
 
 ## Building
 | Project | Tech Stack | Architecture & Engineering Focus | Status |
