@@ -1,7 +1,9 @@
 # Gary Chen
 
 ## Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,pandas,numpy,scikitlearn,pytorch,tensorflow,docker,git,jupyter,tableau" alt="Data Science Skills" />
+</p>
 
 ### [World Cup Predictor](https://github.com/Gary-XC/adv-soccer-stats)
 Tools: Pandas, NumPy, LightGBM, FastAPI, Uvicorn, Streamlit, Docker, Hugging Face Spaces, GitHub Actions
