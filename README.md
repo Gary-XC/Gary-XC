@@ -23,6 +23,6 @@
 
 
 ## Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,sklearn,pytorch,tensorflow,docker,git,jupyter,tableau" alt="Data Science Skills" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,sklearn,pytorch,tensorflow,docker,git,jupyter" alt="Data Science Skills" />
 </p>
