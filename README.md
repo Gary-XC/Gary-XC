@@ -15,11 +15,11 @@
 | [**Custom Arch MoE**](https://github.com/Gary-XC/custom-arch-MoE) | `PyTorch` `CUDA` `Hugging Face` `Transformers` | Building and benchmarking a custom Mixture of Experts (MoE) neural architecture from scratch, optimizing sparse top-k routing mechanisms and load-balancing auxiliary loss. | `Research` |
 
 ## Certifications
-| Organization | Certificate | Key Takeaways & Impact |
+| Organization | Certificate | Skills |
 | :--- | :--- | :--- |
-| **Anthropic** | [Claude Code in Action](https://academy.claude.com/) | Mastered autonomous agentic engineering workflows directly in the terminal, focusing on test-driven refactoring, codebase-wide search and indexing, and configuring custom agent skills. |
-| **freeCodeCamp** | [Machine Learning with Python](https://www.freecodecamp.org/certification/garyc246/machine-learning-with-python-v7) | Implemented neural networks, image classifiers, and predictive algorithms using TensorFlow and Scikit-Learn, with an emphasis on data preprocessing and performance evaluation. |
-| **freeCodeCamp** | [Relational Database](https://www.freecodecamp.org/certification/garyc246/relational-databases-v9) | Designed normalized SQL schemas, complex multi-table queries, and automated shell pipelines with PostgreSQL and Bash and implemented version control using git and github. |
+| **Anthropic** | [Claude Code in Action](https://academy.claude.com/) | Autonomous Agents, Agentic Workflows, Test-Driven Development (TDD), CLI / Terminal, Codebase Indexing, Agent Configuration |
+| **freeCodeCamp** | [Machine Learning with Python](https://www.freecodecamp.org/certification/garyc246/machine-learning-with-python-v7) | Python, TensorFlow, Scikit-Learn, Neural Networks, Image Classification, Predictive Modeling, Data Preprocessing, Model Evaluation |
+| **freeCodeCamp** | [Relational Database](https://www.freecodecamp.org/certification/garyc246/relational-databases-v9) | SQL, PostgreSQL, Database Normalization & Schema Design, Bash, Shell Scripting, Git, GitHub, Version Control, CI/CD |
 
 
 ## Stack
