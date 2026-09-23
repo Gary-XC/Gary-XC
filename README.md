@@ -2,7 +2,7 @@
 
 ## Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,pandas,numpy,sklearn,pytorch,tensorflow,docker,git,jupyter,tableau" alt="Data Science Skills" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,sklearn,pytorch,tensorflow,docker,git,jupyter,tableau" alt="Data Science Skills" />
 </p>
 
 ### [World Cup Predictor](https://github.com/Gary-XC/adv-soccer-stats)
