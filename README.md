@@ -4,7 +4,6 @@
 ## Building
 
 ## Certifications
-## Certifications
 
 | | Organization | Certificate | Key Takeaways & Impact |
 | :---: | :--- | :--- | :--- |
