@@ -18,8 +18,8 @@
 | Organization | Certificate | Skills |
 | :--- | :--- | :--- |
 | **Anthropic** | [Claude Code in Action](https://academy.claude.com/) | `Autonomous Agents`, `Agentic Workflows`, `Test-Driven Development (TDD)`, `CLI / Terminal`, `Codebase Indexing`, `Custom Agent Configuration` |
-| **freeCodeCamp** | [Machine Learning with Python](https://www.freecodecamp.org/certification/garyc246/machine-learning-with-python-v7) | Python, TensorFlow, Scikit-Learn, Neural Networks, Image Classification, Predictive Modeling, Data Preprocessing, Model Evaluation |
-| **freeCodeCamp** | [Relational Database](https://www.freecodecamp.org/certification/garyc246/relational-databases-v9) | SQL, PostgreSQL, Database Normalization & Schema Design, Bash, Shell Scripting, Git, GitHub, Version Control, CI/CD |
+| **freeCodeCamp** | [Machine Learning with Python](https://www.freecodecamp.org/certification/garyc246/machine-learning-with-python-v7) `Python`, `TensorFlow`, `Scikit-Learn`, `Neural Networks`, `Image Classification`, `Predictive Modeling`, `Data Preprocessing`, `Model Evaluation` |
+| **freeCodeCamp** | [Relational Database](https://www.freecodecamp.org/certification/garyc246/relational-databases-v9) | `SQL`, `PostgreSQL`, `Database Normalization`, `Schema Design`, `Bash`, `Shell Scripting`, `Git`, `GitHub`, `Version Control`D |
 
 
 ## Stack
