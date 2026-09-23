@@ -4,22 +4,13 @@
 ## Building
 
 ## Certifications
-[![Anthropic](https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://academy.claude.com/)
+## Certifications
 
-> Focused on hands-off, agentic software engineering workflows using Claude Code in the terminal. 
----
-
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Relational_Database-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/garyc246/relational-databases-v9)
-
-> Mastered relational database architecture, relational algebra, and terminal-based schema management using PostgreSQL, Bash, and Git. 
-
----
-
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Machine_Learning_with_Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/https://www.freecodecamp.org/certification/garyc246/machine-learning-with-python-v7)
-
-> Implemented core machine learning algorithms and deep neural network architectures using Python, TensorFlow, and Scikit-Learn. Engineered end-to-end predictive models including image classification with CNNs, text sentiment analysis with recurrent neural networks, and recommendation engines using KNN.
-
----
+| | Organization | Certificate | Key Takeaways & Impact |
+| :---: | :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" width="20" height="20" alt="Anthropic" /> | **Anthropic** | [Claude Code in Action](https://academy.claude.com/) | Mastered autonomous agentic engineering workflows directly in the terminal, focusing on test-driven refactoring, codebase-wide search and indexing, and configuring custom agent skills. |
+| <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/freecodecamp.svg" width="20" height="20" alt="freeCodeCamp" /> | **freeCodeCamp** | [Machine Learning with Python](https://www.freecodecamp.org/certification/https://www.freecodecamp.org/certification/garyc246/machine-learning-with-python-v7) | Implemented neural networks, image classifiers, and predictive algorithms using TensorFlow and Scikit-Learn, with an emphasis on data preprocessing and performance evaluation. |
+| <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/freecodecamp.svg" width="20" height="20" alt="freeCodeCamp" /> | **freeCodeCamp** | [Relational Database](https://www.freecodecamp.org/certification/garyc246/relational-databases-v9) | *Pending your input below...* |
 
 
 ## Stack
