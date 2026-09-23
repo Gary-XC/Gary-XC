@@ -1,6 +1,11 @@
 # Gary Chen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garychenx/)
 
+- **AI & ML Community:** Active member and contributor at **QMIND** (Canada’s largest undergraduate AI club) and **QDAA** (Queen’s Data Analytics Association), collaborating on applied ML research and student-led AI initiatives
+- **Experience:** Experienced in designing scalable database architectures, automated ETL pipelines, and data ingestion workflows across health-tech (Medevi) and staffing platforms (SODT)
+- **Core Focus:** Building end-to-end predictive systems, ensemble modeling, containerized inference endpoints (FastAPI, Docker), and cloud data infrastructure (AWS, Azure, SQL)
+- **Current Pursuits:** Exploring agentic workflows, custom Mixture of Experts (MoE) architectures, and reinforcement learning simulation environments
+
 ## Building
 | Project | Tech Stack | Architecture & Engineering Focus | Status |
 | :--- | :--- | :--- | :---: |
