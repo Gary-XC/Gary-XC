@@ -1,3 +1,8 @@
+# Gary Chen
+
+## Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### [World Cup Predictor](https://github.com/Gary-XC/adv-soccer-stats)
 Tools: Pandas, NumPy, LightGBM, FastAPI, Uvicorn, Streamlit, Docker, Hugging Face Spaces, GitHub Actions
 - An end-to-end MLOps pipeline for predicting soccer match outcomes using a hybrid Top-Down/Bottom-Up EWMA feature engineering approach, LightGBM stacking models, and Live Elo Ratings.
